@@ -8,7 +8,7 @@ Install [node.js](http://nodejs.org).
 
 You are done.
 
-Please not that you need to have [webpack and webpack cli](https://webpack.js.org/guides/installation) globally for ease of use.
+Please note that you need to have [webpack and webpack cli](https://webpack.js.org/guides/installation) globally for ease of use.
 
 ### `npm run dev` or `npm run watch`
 
@@ -48,7 +48,7 @@ Workflow for adding new features is as follows:
 
 * Add new issue 
 * Fork repository
-* Checkout new brancs with name `feature/name-of-the-feature`, usually name of the issue
+* Checkout new branch with name `feature/name-of-the-feature`, usually name of the issue
 * Commit with message `#{issue id} Name of the issue - description`
 * Push to the forked repository
 * Create pull request to develop branch
@@ -75,7 +75,7 @@ Please note: If changing version of the plugin you need to modify version in thi
 
 Plugin options are located under Settings admin menu. 
 
-Visit Settings -> Contributor orientation tool page and there you can  disable teams that you don't need. 
+Visit Settings -> Contributor orientation tool page and there you can disable teams that you don't need. 
 
 ## Licence
 
